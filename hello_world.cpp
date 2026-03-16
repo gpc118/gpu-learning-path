@@ -1,1 +1,6 @@
-include <iostream>\n\nint main() {\n std::cout << "Hello GPU World!" << std::end1;\n return 0;\n}
+#include <iostream>
+
+int main() {
+    std::cout << "Hello GPU World!" << std::endl;
+    return 0;
+}
